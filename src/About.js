@@ -8,6 +8,9 @@ class About extends Component {
         <h1>
           Dan McCune
         </h1>
+        <h2>
+          Front-End Developer
+        </h2>
             About
         </div>
       );
