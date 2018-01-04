@@ -1,8 +1,15 @@
 /* font-family: 'Abril Fatface', cursive;
-font-family: 'Righteous', cursive; */
+font-family: 'Righteous', cursive;
+font-family: 'Bungee Hairline', cursive; */
 
 h1 {
     font-family: 'Righteous', cursive;
+    text-align: left;
+    padding-left: 1em;
+}
+
+h2 {
+    font-family: 'Bungee Hairline', cursive;
     text-align: left;
     padding-left: 1em;
 }
