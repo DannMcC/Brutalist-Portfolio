@@ -11,7 +11,6 @@ class About extends Component {
         <h2>
           Front-End Developer
         </h2>
-            About
         </div>
       );
     }
