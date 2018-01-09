@@ -5,7 +5,7 @@ class Footer extends Component {
     render() {
       return (
         <div className="footer">
-            <marquee> I am a footer. </marquee>
+            <marquee>Dan McCune is available for hire in a freelance or permanent position.</marquee>
         </div>
       );
     }
