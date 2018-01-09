@@ -12,7 +12,7 @@ class About extends Component {
             Front-End Developer
           </h2>
           <div className="about-discription">
-          Dan McCune is a Software developer in Tampa Bay. Selected projects are available to be viewed on <a href="https://github.com/DannMcC">GitHub</a>
+          Dan McCune is a St. Petersburg local and a Software Developer in the Tampa Bay Area. Selected projects are available to be viewed on <a href="https://github.com/DannMcC">GitHub</a>.
           </div>
         </div>
       );
