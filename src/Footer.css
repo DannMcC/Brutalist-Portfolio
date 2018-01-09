@@ -3,4 +3,6 @@
     position: fixed;
     bottom: 0;
     width: 100%;
+    transform: rotate(20deg);
+
 }
