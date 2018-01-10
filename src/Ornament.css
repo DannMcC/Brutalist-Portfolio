@@ -1,0 +1,19 @@
+
+
+.marquee {    
+    background: linear-gradient(to right, white ,red , yellow, white);
+    animation: marquee 5s linear infinite;
+    display: block;
+    width: 200%;
+    height: 30px;
+    position: fixed;
+    overflow: hidden;
+    opacity: .25;
+    transform: rotate(20deg);
+
+}
+
+@keyframes marquee {
+    0% { left: 200%; }
+    100% { left: -200%; }
+  }
