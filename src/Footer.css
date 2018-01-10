@@ -3,6 +3,8 @@
     position: fixed;
     bottom: 0;
     width: 100%;
+    right: 10em;
     transform: rotate(20deg);
+    
 
 }

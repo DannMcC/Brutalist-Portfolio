@@ -3,6 +3,7 @@ import './App.css';
 import About from './About';
 import Skills from './Skills';
 import Footer from './Footer';
+import Ornament from './Ornament';
 
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
       <div className="App">
         <About />
         <Skills />
+        <Ornament />
         <Footer />
       </div>
     );
