@@ -5,7 +5,9 @@ class Skills extends Component {
     render() {
       return (
         <div className="skills">
-            skills
+            <h1>
+              Skills
+            </h1>
         </div>
       );
     }
